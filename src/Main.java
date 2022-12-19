@@ -5,5 +5,10 @@ public class Main {
         xx.moon=2;
         xx.planets=3;
 
+        FeatureSUN jeron = new FeatureSUN();
+        jeron.temperature=4343;
+        jeron.heat="32323233";
+        jeron.size=43434;
+
     }
 }
